@@ -12,8 +12,9 @@ public:
               
                 ans=max(ans,sum);
                 sum=sum-nums[i];
-                i++;
+                i++;j++;
             }
+            else if((j-i+1)<k)
             j++;
         }
         return ((double)ans/k);
