@@ -11,7 +11,9 @@ sum+=nums[j];
 for(;m[nums[j]]>1;i++){
 sum-=nums[i];
 
-m[nums[i]]--; 
+m[nums[i]]--;
+if(m[nums[i]]==0) 
+m.erase(nums[i]);
 }
 maxi=max(maxi,sum);
        } 
