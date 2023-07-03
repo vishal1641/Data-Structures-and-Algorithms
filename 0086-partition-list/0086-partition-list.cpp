@@ -21,17 +21,17 @@ public:
         {
 if(temp->val<x)
 {
-    dummy->next=temp;
-    dummy=dummy->next;
+    a->next=temp;
+    a=a->next;
 }
 else{
-    dummy1->next=temp;
-    dummy1=dummy1->next;
+    b->next=temp;
+    b=b->next;
 }
 temp=temp->next;
     }
-        dummy->next=b->next;
-dummy1->next=NULL;
-        return a->next;
+        a->next=dummy1->next;
+b->next=NULL;
+        return dummy->next;
     }
 };
