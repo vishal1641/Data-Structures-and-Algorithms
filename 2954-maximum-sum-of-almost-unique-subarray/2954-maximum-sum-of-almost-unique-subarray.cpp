@@ -3,8 +3,8 @@ public:
     long long maxSum(vector<int>& nums, int m, int k) {
        unordered_map<long long,int>mt;
         int i=0,j=0;
-        long long sum=0;
-    long long maxi=0;
+        long sum=0;
+    long  maxi=0;
         while(j<nums.size())
         {
             mt[nums[j]]++;
