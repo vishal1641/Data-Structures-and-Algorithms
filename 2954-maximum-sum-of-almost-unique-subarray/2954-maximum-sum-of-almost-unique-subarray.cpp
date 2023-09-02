@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long maxSum(vector<int>& nums, int m, int k) {
-       unordered_map<long long,long long>mt;
+       unordered_map<long long,int>mt;
         int i=0,j=0;
         long long sum=0;
     long long maxi=0;
