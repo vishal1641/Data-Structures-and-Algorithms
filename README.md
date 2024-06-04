@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/vishal1641/hi/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sliding Window
 |  |
 | ------- |
@@ -47,3 +48,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/vishal1641/hi/tree/master/0264-ugly-number-ii) |
+# Two Pointers
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
