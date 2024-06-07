@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/vishal1641/hi/tree/master/0076-minimum-window-substring) |
 | [0264-ugly-number-ii](https://github.com/vishal1641/hi/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 # String
 |  |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
+| [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 # Queue
 |  |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Stack
 |  |
@@ -65,3 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
