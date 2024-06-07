@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 # String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 # Queue
 |  |
 | ------- |
@@ -55,11 +57,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 # Greedy
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 # Stack
 |  |
 | ------- |
@@ -72,3 +76,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
+# Binary Search
+|  |
+| ------- |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
+# Counting
+|  |
+| ------- |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
