@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/vishal1641/hi/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/vishal1641/hi/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vishal1641/hi/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vishal1641/hi/tree/master/0079-word-search) |
 | [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
@@ -92,3 +94,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
+# Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vishal1641/hi/tree/master/0079-word-search) |
+# Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vishal1641/hi/tree/master/0079-word-search) |
