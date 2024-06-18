@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vishal1641/hi/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/vishal1641/hi/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 # Queue
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/vishal1641/hi/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vishal1641/hi/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Simulation
 |  |
@@ -103,3 +105,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vishal1641/hi/tree/master/0079-word-search) |
+# Linked List
+|  |
+| ------- |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/vishal1641/hi/tree/master/2374-steps-to-make-array-non-decreasing) |
+# Monotonic Stack
+|  |
+| ------- |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/vishal1641/hi/tree/master/2374-steps-to-make-array-non-decreasing) |
