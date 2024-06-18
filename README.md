@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/vishal1641/hi/tree/master/0079-word-search) |
 | [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
+| [0665-non-decreasing-array](https://github.com/vishal1641/hi/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
