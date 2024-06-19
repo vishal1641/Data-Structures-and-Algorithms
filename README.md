@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
 | [0665-non-decreasing-array](https://github.com/vishal1641/hi/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
+| [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vishal1641/hi/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -65,11 +66,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 # Greedy
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vishal1641/hi/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -88,10 +91,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 # Binary Search
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 # Counting
 |  |
