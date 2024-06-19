@@ -118,3 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/vishal1641/hi/tree/master/2374-steps-to-make-array-non-decreasing) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/vishal1641/hi/tree/master/1908-recyclable-and-low-fat-products) |
