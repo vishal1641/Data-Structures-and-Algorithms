@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/vishal1641/hi/tree/master/1675-magnetic-force-between-two-balls) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vishal1641/hi/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/vishal1641/hi/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -93,10 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
+| [1675-magnetic-force-between-two-balls](https://github.com/vishal1641/hi/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Search
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/vishal1641/hi/tree/master/1675-magnetic-force-between-two-balls) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 # Counting
 |  |
