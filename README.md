@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/vishal1641/hi/tree/master/0076-minimum-window-substring) |
 | [0264-ugly-number-ii](https://github.com/vishal1641/hi/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/vishal1641/hi/tree/master/0525-contiguous-array) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/vishal1641/hi/tree/master/0079-word-search) |
 | [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
+| [0525-contiguous-array](https://github.com/vishal1641/hi/tree/master/0525-contiguous-array) |
 | [0665-non-decreasing-array](https://github.com/vishal1641/hi/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
@@ -159,3 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1942-primary-department-for-each-employee](https://github.com/vishal1641/hi/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/vishal1641/hi/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vishal1641/hi/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+# Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/vishal1641/hi/tree/master/0525-contiguous-array) |
