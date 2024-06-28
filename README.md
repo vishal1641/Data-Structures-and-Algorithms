@@ -169,14 +169,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vishal1641/hi/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0662-maximum-width-of-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vishal1641/hi/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0662-maximum-width-of-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vishal1641/hi/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0662-maximum-width-of-binary-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -185,3 +188,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vishal1641/hi/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0662-maximum-width-of-binary-tree) |
