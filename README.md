@@ -170,11 +170,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vishal1641/hi/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0662-maximum-width-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vishal1641/hi/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vishal1641/hi/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0662-maximum-width-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vishal1641/hi/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -184,8 +186,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vishal1641/hi/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vishal1641/hi/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vishal1641/hi/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0662-maximum-width-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vishal1641/hi/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
