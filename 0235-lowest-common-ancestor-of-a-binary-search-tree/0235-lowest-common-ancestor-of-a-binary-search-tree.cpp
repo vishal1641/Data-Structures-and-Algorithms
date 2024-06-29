@@ -10,15 +10,24 @@
 
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL)
-        return NULL;
-     int curr=root->val;
-        if(curr<p->val&&curr<q->val){
-          lowestCommonAncestor( root->right,  p,  q); 
+    // TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+    //     if(root==NULL)
+    //     return NULL;
+     
+    //     if(root->val<p->val&&root->val<q->val){
+    //       lowestCommonAncestor( root->right,  p,  q); 
+    //     }
+    //     if(root->val>p->val&&root->val>q->val)
+    //       lowestCommonAncestor( root->left,  p,  q); 
+    //     return root;
+    // }
+      TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if ((root -> val > p -> val) && (root -> val > q -> val)) {
+            return lowestCommonAncestor(root -> left, p, q);
         }
-        if(curr>p->val&&curr>q->val)
-          lowestCommonAncestor( root->left,  p,  q); 
+        if ((root -> val < p -> val) && (root -> val < q -> val)) {
+            return lowestCommonAncestor(root -> right, p, q);
+        }
         return root;
     }
 };
