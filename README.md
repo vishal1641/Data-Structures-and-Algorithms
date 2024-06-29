@@ -218,11 +218,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vishal1641/hi/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vishal1641/hi/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -232,4 +234,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vishal1641/hi/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Hash Table
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
