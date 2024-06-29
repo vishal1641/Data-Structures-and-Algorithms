@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/vishal1641/hi/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vishal1641/hi/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
+| [0926-find-and-replace-pattern](https://github.com/vishal1641/hi/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/vishal1641/hi/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vishal1641/hi/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/vishal1641/hi/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vishal1641/hi/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0926-find-and-replace-pattern](https://github.com/vishal1641/hi/tree/master/0926-find-and-replace-pattern) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/vishal1641/hi/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vishal1641/hi/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Sliding Window
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0876-hand-of-straights) |
+| [0926-find-and-replace-pattern](https://github.com/vishal1641/hi/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishal1641/hi/tree/master/1675-magnetic-force-between-two-balls) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/vishal1641/hi/tree/master/2094-remove-stones-to-minimize-the-total) |
