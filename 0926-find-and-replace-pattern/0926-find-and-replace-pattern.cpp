@@ -3,10 +3,10 @@ public:
     vector<string> findAndReplacePattern(vector<string>& nums, string pattern) {
         vector<string> ans;
         for (int i = 0; i < nums.size(); i++) {
-            map<char, char> m;
+           unordered_map<char, char> m;
 
             int count = 0;
-            map<char, char> m1;
+            unordered_map<char, char> m1;
             for (int j = 0; j < pattern.size(); j++) {
                 if (m.find(pattern[j]) == m.end() &&
                     m1.find(nums[i][j]) == m1.end()) {
