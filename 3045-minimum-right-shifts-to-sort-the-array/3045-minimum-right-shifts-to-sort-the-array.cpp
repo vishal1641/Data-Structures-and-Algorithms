@@ -4,16 +4,13 @@ public:
         vector<int> v;
         v = nums;
         sort(begin(v), end(v));
-        int maxi = INT_MIN, mini = INT_MAX, minp = 0, maxp = 0;
+        int maxi = INT_MIN, mini = INT_MAX, maxp = 0;
         for (int i = 0; i < nums.size(); i++) {
             if (maxi < nums[i]) {
                 maxi = nums[i];
                 maxp = i;
             }
-            if (mini > nums[i]) {
-                mini = nums[i];
-                minp = i;
-            }
+            
         }
         int x = nums.size() - maxp - 1;
         rotate(nums.begin(), nums.begin() + nums.size() - x, nums.end());
