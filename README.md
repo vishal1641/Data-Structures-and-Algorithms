@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/vishal1641/hi/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/vishal1641/hi/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/vishal1641/hi/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/vishal1641/hi/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/vishal1641/hi/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/vishal1641/hi/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
