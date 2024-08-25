@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishal1641/hi/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vishal1641/hi/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vishal1641/hi/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -394,4 +396,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vishal1641/hi/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
