@@ -2,10 +2,8 @@ class Solution {
 public:
     void solve(int i, vector<vector<int>>& ans, vector<int>& nums, int b,
                int sum, vector<int>& v) {
-        if (sum > b) {
-            return;
-        }
-
+        if(sum>b)
+        return;
         if (sum == b) {
             ans.push_back(v);
             return;
