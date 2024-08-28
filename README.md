@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/vishal1641/hi/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishal1641/hi/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/vishal1641/hi/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/vishal1641/hi/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/vishal1641/hi/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/vishal1641/hi/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishal1641/hi/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/vishal1641/hi/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -426,4 +428,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vishal1641/hi/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vishal1641/hi/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vishal1641/hi/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
