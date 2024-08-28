@@ -1,28 +1,29 @@
 class Solution {
 public:
-void pick(int index,vector<int>&output,vector<vector<int>>&ans,vector<int>& candi,int target){
+    void solve(int i, vector<vector<int>>& ans, vector<int>& nums, int b,
+               int sum, vector<int>& v) {
+        if (sum > b) {
+            return;
+        }
 
-if(index==candi.size())
-{
-if(target==0)
-{
-ans.push_back(output);
-return;
-}
-else return;
-}
-if(candi[index]<=target){
-output.push_back(candi[index]);
-pick(index,output,ans,candi,target-candi[index]);
-output.pop_back();
-}
-pick(index+1,output,ans,candi,target);
-}
-    vector<vector<int>> combinationSum(vector<int>& candi, int target) {
-        vector<int>output;
-        vector<vector<int>>ans;
-        int index=0;
-        pick(index,output,ans,candi,target);
+        if (sum == b) {
+            ans.push_back(v);
+            return;
+        }
+
+        for (int j = i; j < nums.size(); j++) {
+            v.push_back(nums[j]);
+            sum += nums[j];
+            solve(j, ans, nums, b, sum, v);
+            v.pop_back();
+            sum -= nums[j];
+        }
+    }
+    vector<vector<int>> combinationSum(vector<int>& ARR, int B) {
+        vector<vector<int>> ans;
+        vector<int> v;
+        int sum = 0;
+        solve(0, ans, ARR, B, sum, v);
         return ans;
     }
 };
