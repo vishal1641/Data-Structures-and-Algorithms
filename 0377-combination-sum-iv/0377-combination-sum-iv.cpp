@@ -14,7 +14,9 @@ public:
 
         int ans = 0;
         for (int j = 0; j < nums.size(); j++) {
-            ans += solve(sum + nums[j], target, nums, dp); 
+            sum+=nums[j];
+            ans += solve(sum , target, nums, dp); 
+            sum-=nums[j];
         }
 
         dp[sum] = ans; 
