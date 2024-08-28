@@ -1,21 +1,28 @@
 class Solution {
 public:
-int solve(vector<int>&nums,int target,vector<int>&dp){
-    if(target<0)
-    return 0;
-    if(target==0)
-    return 1;
-    if(dp[target]!=-1)
-    return dp[target];
-    int ans=0;
-    for(int i=0;i<nums.size();i++){
-         ans+=solve(nums,target-nums[i],dp);
-         
+    int solve(int sum, int target, vector<int>& nums, vector<int>& dp) {
+        if (sum == target) {
+            return 1; 
+        }
+        if (sum > target) {
+            return 0; 
+        }
+
+        if (dp[sum] != -1) {
+            return dp[sum]; 
+        }
+
+        int ans = 0;
+        for (int j = 0; j < nums.size(); j++) {
+            ans += solve(sum + nums[j], target, nums, dp); 
+        }
+
+        dp[sum] = ans; 
+        return ans;
     }
-    return dp[target]=ans;
-}
+
     int combinationSum4(vector<int>& nums, int target) {
-        vector<int>dp(target+1,-1);
-      return  solve(nums,target,dp);
+        vector<int> dp(target + 1, -1); 
+        return solve(0, target, nums, dp); 
     }
 };
