@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vishal1641/hi/tree/master/0039-combination-sum) |
 | [0198-house-robber](https://github.com/vishal1641/hi/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/vishal1641/hi/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vishal1641/hi/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
