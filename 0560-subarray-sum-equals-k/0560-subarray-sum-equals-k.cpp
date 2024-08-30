@@ -8,10 +8,7 @@ public:
             sum+=nums[i];
             if(m.find(sum-k)!=m.end())
             count+=m[sum-k];
-            if(m.find(sum)!=m.end())
             m[sum]++;
-            else
-            m.insert({sum,1});
         }
         return count;
     }
