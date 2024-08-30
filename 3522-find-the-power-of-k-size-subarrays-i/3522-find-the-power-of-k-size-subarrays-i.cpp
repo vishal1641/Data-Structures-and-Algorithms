@@ -5,7 +5,7 @@ public:
         int j;
         for (int i = 0; i < nums.size() - k + 1; i++) {
             int count = 0;
-            int maxi = INT_MIN;
+           int maxi=0;
             for (j = i; j < i + k - 1; j++) {
                 if (nums[j] + 1 != nums[j + 1]) {
 
