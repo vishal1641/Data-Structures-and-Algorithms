@@ -1,23 +1,21 @@
 class Solution {
 public:
     vector<int> resultsArray(vector<int>& nums, int k) {
-        vector<int>v;
+        vector<int> v;
         int j;
-        for (int i = 0; i < nums.size()-k+1; i ++) {
+        for (int i = 0; i < nums.size() - k + 1; i++) {
             int count = 0;
-            int maxi=INT_MIN;
-            for ( j = i; j < i +k-1; j++) {
-                if (nums[j] + 1 !=nums[j + 1]) {
-                    
-                  
+            int maxi = INT_MIN;
+            for (j = i; j < i + k - 1; j++) {
+                if (nums[j] + 1 != nums[j + 1]) {
+
                     count++;
                     v.push_back(-1);
                     break;
                 }
-                maxi=max(maxi,nums[j]);
             }
             if (count == 0) {
-            maxi=max(maxi,nums[j]);
+                maxi = nums[j];
                 v.push_back(maxi);
             }
         }
