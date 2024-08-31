@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vishal1641/hi/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/vishal1641/hi/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishal1641/hi/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vishal1641/hi/tree/master/0078-subsets) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vishal1641/hi/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vishal1641/hi/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/vishal1641/hi/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
