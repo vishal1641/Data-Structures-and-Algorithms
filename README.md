@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/vishal1641/hi/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/vishal1641/hi/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishal1641/hi/tree/master/0040-combination-sum-ii) |
+| [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/vishal1641/hi/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishal1641/hi/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/vishal1641/hi/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishal1641/hi/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
