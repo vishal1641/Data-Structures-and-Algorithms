@@ -36,10 +36,9 @@ public:
         for (int i = 0; i < n; i++) {
             maxi = max(maxi, a[i]);
             maxi = max(maxi, b[i]);
-            if (i > 0)
-                maxi = max(maxi, z);
+            
         }
 
-        return maxi;
+        return z>=maxi?z:maxi;
     }
 };
