@@ -28,10 +28,7 @@ public:
             if (x == 0)
                 x = 1;
         }
-        int z = 1;
-        for (int i = 0; i < nums.size(); i++) {
-            z = z * nums[i];
-        }
+       
         int maxi = nums[0];
         for (int i = 0; i < n; i++) {
             maxi = max(maxi, a[i]);
@@ -39,6 +36,6 @@ public:
             
         }
 
-        return z>=maxi?z:maxi;
+        return maxi;
     }
 };
