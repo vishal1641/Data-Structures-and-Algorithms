@@ -1,17 +1,27 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int i=0,j=0,n=s.length(),ans=0;
-       int a[26]={};
-       for(;j<n;j++){
-           a[s[j]-'A']++;
-       
-       for(;j-i+1-*max_element(a,a+26)>k;i++){
-a[s[i]-'A']--;
-       }
-ans=max(ans,j-i+1);
+        int maxi1 = 0;
+        int n = s.size();
 
-         }
-         return ans;
+        for (int i = 0; i < s.size(); i++) {
+            vector<int> v(26, 0);
+            int maxi = 0;  // Reset maxi for each new starting point i
+            int changes = 0;
+
+            for (int j = i; j < n; j++) {
+                v[s[j] - 'A']++;  // Use s[j] instead of s[i]
+                maxi = max(maxi, v[s[j] - 'A']);  // Update maxi with current character frequency
+
+                changes = (j - i + 1) - maxi;  // Calculate the number of changes needed
+                if (changes <= k) {
+                    maxi1 = max(maxi1, j - i + 1);  // Update the maximum length of valid substring
+                } else {
+                    break;  // Break if changes exceed k
+                }
+            }
+        }
+
+        return maxi1;
     }
 };
