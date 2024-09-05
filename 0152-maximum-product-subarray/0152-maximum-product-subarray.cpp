@@ -31,8 +31,7 @@ public:
        
         int maxi = nums[0];
         for (int i = 0; i < n; i++) {
-            maxi = max(maxi, a[i]);
-            maxi = max(maxi, b[i]);
+           maxi=max({maxi,a[i],b[i]});
             
         }
 
