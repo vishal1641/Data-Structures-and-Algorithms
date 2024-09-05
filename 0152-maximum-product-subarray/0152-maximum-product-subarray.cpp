@@ -1,17 +1,45 @@
+#include <algorithm>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int n=nums.size();
-        int p=1,s=1,ans=INT_MIN;
-        for(int i=0;i<n;i++){
-            if(p==0)
-            p=1;
-            if(s==0)
-            s=1;
-            p*=nums[i];
-            s*=nums[n-i-1];
-            ans=max(ans,max(p,s));
+        int n = nums.size();
+
+        if (n == 0)
+            return 0;
+
+        vector<int> a(n, 1);
+        vector<int> b(n, 1);
+
+        int x = 1;
+        for (int i = 0; i < n; i++) {
+            x *= nums[i];
+            a[i] = x;
+            if (x == 0)
+                x = 1;
         }
-        return ans;
+
+        x = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            x *= nums[i];
+            b[i] = x;
+            if (x == 0)
+                x = 1;
+        }
+        int z = 1;
+        for (int i = 0; i < nums.size(); i++) {
+            z = z * nums[i];
+        }
+        int maxi = nums[0];
+        for (int i = 0; i < n; i++) {
+            maxi = max(maxi, a[i]);
+            maxi = max(maxi, b[i]);
+            if (i > 0)
+                maxi = max(maxi, z);
+        }
+
+        return maxi;
     }
 };
