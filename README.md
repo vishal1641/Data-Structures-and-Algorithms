@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/vishal1641/hi/tree/master/0205-isomorphic-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vishal1641/hi/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vishal1641/hi/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/vishal1641/hi/tree/master/0652-find-duplicate-subtrees) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/vishal1641/hi/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vishal1641/hi/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vishal1641/hi/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vishal1641/hi/tree/master/0966-binary-subarrays-with-sum) |
