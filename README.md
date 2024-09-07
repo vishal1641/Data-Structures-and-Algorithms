@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vishal1641/hi/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vishal1641/hi/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/vishal1641/hi/tree/master/1720-crawler-log-folder) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vishal1641/hi/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal1641/hi/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vishal1641/hi/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/vishal1641/hi/tree/master/1720-crawler-log-folder) |
 ## Sorting
 |  |
