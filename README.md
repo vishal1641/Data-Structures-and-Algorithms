@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-binary-tree-pruning](https://github.com/vishal1641/hi/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vishal1641/hi/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vishal1641/hi/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/vishal1641/hi/tree/master/0652-find-duplicate-subtrees) |
 | [0832-binary-tree-pruning](https://github.com/vishal1641/hi/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vishal1641/hi/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vishal1641/hi/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-binary-tree-pruning](https://github.com/vishal1641/hi/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/vishal1641/hi/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vishal1641/hi/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vishal1641/hi/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vishal1641/hi/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -301,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
 ## Array
@@ -433,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
