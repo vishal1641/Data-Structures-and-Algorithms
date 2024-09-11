@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vishal1641/hi/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vishal1641/hi/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vishal1641/hi/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishal1641/hi/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vishal1641/hi/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/vishal1641/hi/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
 | [0343-integer-break](https://github.com/vishal1641/hi/tree/master/0343-integer-break) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vishal1641/hi/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vishal1641/hi/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vishal1641/hi/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/vishal1641/hi/tree/master/0231-power-of-two) |
