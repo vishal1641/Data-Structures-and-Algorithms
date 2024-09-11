@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/vishal1641/hi/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vishal1641/hi/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/vishal1641/hi/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/vishal1641/hi/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vishal1641/hi/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3540-hash-divided-string](https://github.com/vishal1641/hi/tree/master/3540-hash-divided-string) |
 ## Math
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vishal1641/hi/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Heap (Priority Queue)
 |  |
