@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/vishal1641/hi/tree/master/0416-partition-equal-subset-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Linked List
 |  |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vishal1641/hi/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vishal1641/hi/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/vishal1641/hi/tree/master/1720-crawler-log-folder) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vishal1641/hi/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
