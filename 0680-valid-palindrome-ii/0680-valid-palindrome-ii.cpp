@@ -1,33 +1,37 @@
 class Solution {
 public:
-bool isPalindrome(string s, int i, int j) {
-    while (i < j) {
-        if (s[i] != s[j]) {
+    bool validPalindrome(string s) {
+
+        string k = s;
+        reverse(begin(s), end(s));
+        if (s == k)
+            return true;
+        int i = 0;
+        int j = k.size() - 1;
+        int count = 0;
+        while (i <= j) {
+            if (k[i] == k[j]) {
+                j--;
+                i++;
+            } else {
+                j--;
+                count++;
+            }
+        }
+        i = 0, j = k.size() - 1;
+        int count1 = 0;
+        while (i <= j) {
+            if (k[i] == k[j]) {
+                j--;
+                i++;
+            } else {
+                i++;
+                count1++;
+            }
+        }
+        if (count == 1 || count1 == 1)
+            return true;
+     
             return false;
-        }
-        i++;
-        j--;
     }
-    return true;
-
-}
-
-bool validPalindrome(string s) {
-//  
-
-
-    int i = 0;
-    int j = s.length() - 1;
-    while (i < j) {
-        if (s[i] != s[j]) {
-            return isPalindrome(s, i + 1, j) || isPalindrome(s, i, j - 1);
-        }
-        i++;
-        j--;
-    }
-    return true;
-// 
-
-
-}
 };
