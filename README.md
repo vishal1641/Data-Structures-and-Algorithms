@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/vishal1641/hi/tree/master/0686-repeated-string-match) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vishal1641/hi/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -554,4 +555,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vishal1641/hi/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
