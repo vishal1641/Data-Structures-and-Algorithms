@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vishal1641/hi/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/vishal1641/hi/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/vishal1641/hi/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/vishal1641/hi/tree/master/0652-find-duplicate-subtrees) |
 | [0832-binary-tree-pruning](https://github.com/vishal1641/hi/tree/master/0832-binary-tree-pruning) |
@@ -559,4 +560,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/vishal1641/hi/tree/master/0686-repeated-string-match) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/vishal1641/hi/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
