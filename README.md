@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishal1641/hi/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vishal1641/hi/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/vishal1641/hi/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/vishal1641/hi/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishal1641/hi/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/vishal1641/hi/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vishal1641/hi/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/vishal1641/hi/tree/master/0078-subsets) |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal1641/hi/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/vishal1641/hi/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vishal1641/hi/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/vishal1641/hi/tree/master/0415-add-strings) |
@@ -471,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/vishal1641/hi/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishal1641/hi/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/vishal1641/hi/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
