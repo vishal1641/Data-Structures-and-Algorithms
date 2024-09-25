@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vishal1641/hi/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/vishal1641/hi/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/vishal1641/hi/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/vishal1641/hi/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vishal1641/hi/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3540-hash-divided-string](https://github.com/vishal1641/hi/tree/master/3540-hash-divided-string) |
 ## Math
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishal1641/hi/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
