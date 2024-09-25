@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vishal1641/hi/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishal1641/hi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vishal1641/hi/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/vishal1641/hi/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishal1641/hi/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/vishal1641/hi/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vishal1641/hi/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
 | [0343-integer-break](https://github.com/vishal1641/hi/tree/master/0343-integer-break) |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishal1641/hi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
