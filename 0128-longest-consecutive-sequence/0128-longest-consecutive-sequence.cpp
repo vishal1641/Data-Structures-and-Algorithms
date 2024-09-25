@@ -11,10 +11,10 @@ public:
             // Only start counting if the current number is the beginning of a sequence
             if (s.find(nums[i] - 1) == s.end()) {
                 int x = nums[i];
-                int count = 1; // At least one number in the sequence
+                int count = 0; // At least one number in the sequence
 
                 // Count all consecutive numbers following x
-                while (s.find(x + 1) != s.end()) {
+                while (s.find(x ) != s.end()) {
                     count++;
                     x++;
                 }
