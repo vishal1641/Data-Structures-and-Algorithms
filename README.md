@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/vishal1641/hi/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/vishal1641/hi/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vishal1641/hi/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vishal1641/hi/tree/master/0152-maximum-product-subarray) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/vishal1641/hi/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vishal1641/hi/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/vishal1641/hi/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishal1641/hi/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vishal1641/hi/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vishal1641/hi/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
