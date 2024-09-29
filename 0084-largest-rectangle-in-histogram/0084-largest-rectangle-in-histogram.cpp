@@ -1,40 +1,35 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& nums) {
-        vector<int>v(nums.size());
-        stack<pair<int,int>>s;
-        int n=nums.size();
-        for(int i=0;i<nums.size();i++){
-            
-            while(!s.empty()&&s.top().first>=nums[i])
-            s.pop();
-            if(s.empty())
-            v[i]=-1;
-            else
-            v[i]=s.top().second;
-            s.push({nums[i],i});
-        }
-        s={};
-        vector<int>r(nums.size());
-        
+        vector<int>v;
+        vector<int>b;
+        stack<int>s;
         for(int i=nums.size()-1;i>=0;i--){
-        
-            while(!s.empty()&&s.top().first>=nums[i])
+            while(!s.empty()&&nums[s.top()]>=nums[i])
             s.pop();
-            if(s.empty())
-            r[i]=n;
-            else
-            r[i]=s.top().second;
-            s.push({nums[i],i});
+            if(s.size()==0)
+            v.push_back(nums.size());
+            else {
+                v.push_back(s.top());
+            }
+            s.push(i);
         }
-        vector<int>w(n);
-        int maxi=INT_MIN;
-        for(int i=0;i<nums.size();i++){
-        w[i]=(nums[i]*(r[i]-v[i]-1));
-            
-            maxi=max(maxi,w[i]);
-        }
+        reverse(begin(v),end(v));
+        stack<int>x;
         
+        for(int i=0;i<nums.size();i++){
+            while(!x.empty()&&nums[x.top()]>=nums[i])
+            x.pop();
+            if(x.size()==0)
+            b.push_back(-1);
+            else
+            b.push_back(x.top());
+            x.push(i);
+        }
+        int maxi=INT_MIN;
+        for(int i=0;i<v.size();i++){
+            maxi=max((v[i]-b[i]-1)*nums[i],maxi);
+        }
         return maxi;
     }
 };
