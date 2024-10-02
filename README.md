@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/vishal1641/hi/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/vishal1641/hi/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal1641/hi/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/vishal1641/hi/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/vishal1641/hi/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/vishal1641/hi/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/vishal1641/hi/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal1641/hi/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/vishal1641/hi/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
