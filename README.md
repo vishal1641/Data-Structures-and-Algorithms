@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/vishal1641/hi/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vishal1641/hi/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vishal1641/hi/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -645,4 +649,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
