@@ -1,27 +1,49 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& arr) {
-        stack<int>st;
-        for(int i = 0; i<arr.size(); i++)
-        {
-            if(arr[i]>0 || st.empty()) st.push(arr[i]);
-            else
-            {
-                while(!st.empty() && st.top()>0 && (st.top() < abs(arr[i]))) st.pop();
+    vector<int> asteroidCollision(vector<int>& asteroids) {
+        stack<int> s;
+        int a = 0, b = 0;
 
-                if(!st.empty() && st.top() == abs(arr[i])) st.pop();
+        for (int i = 0; i < asteroids.size(); i++) {
 
-                else
-                {
-                    if(st.empty() || st.top()<0) st.push(arr[i]);
-                } 
+            if (s.empty() || s.top() < 0 && asteroids[i] < 0 ||
+                s.top() > 0 && asteroids[i] > 0 ||
+                s.top() < 0 && asteroids[i] > 0) {
+                s.push(asteroids[i]);
+            } else {
+
+                while (!s.empty()) {
+                    a = s.top();
+                    b = asteroids[i];
+
+                    if (a > 0 && b < 0) {
+                        if (abs(a) == abs(b)) {
+                            s.pop();
+                            break;
+                        } else if (abs(a) > abs(b)) {
+                            break;
+                        } else {
+                            s.pop();
+                            if (s.empty()) {
+                                s.push(b);
+                                break;
+                            }
+                        }
+                    } else {
+                        s.push(b);
+                        break;
+                    }
+                }
             }
         }
-         vector<int> res(st.size());
-        for(int i = (int)st.size() - 1; i >= 0; i--) {
-            res[i] = st.top();
-            st.pop();
+
+        vector<int> v;
+
+        while (!s.empty()) {
+            v.push_back(s.top());
+            s.pop();
         }
-        return res;
+        reverse(begin(v), end(v));
+        return v;
     }
 };
