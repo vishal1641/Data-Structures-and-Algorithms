@@ -20,8 +20,8 @@ public:
                 i++;j++;
             }
         }
-        // if(m1==m)
-        // v.push_back(i);
+        if(m1==m)
+        v.push_back(i);
         return v;
     }
 };
