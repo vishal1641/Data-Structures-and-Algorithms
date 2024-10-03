@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/vishal1641/hi/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vishal1641/hi/tree/master/0349-intersection-of-two-arrays) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vishal1641/hi/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/vishal1641/hi/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vishal1641/hi/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vishal1641/hi/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/vishal1641/hi/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal1641/hi/tree/master/0416-partition-equal-subset-sum) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vishal1641/hi/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -525,11 +528,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vishal1641/hi/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
@@ -573,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -631,4 +637,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
