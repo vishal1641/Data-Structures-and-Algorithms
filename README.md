@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishal1641/hi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vishal1641/hi/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/vishal1641/hi/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vishal1641/hi/tree/master/0238-product-of-array-except-self) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vishal1641/hi/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -569,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -623,4 +627,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishal1641/hi/tree/master/0070-climbing-stairs) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
