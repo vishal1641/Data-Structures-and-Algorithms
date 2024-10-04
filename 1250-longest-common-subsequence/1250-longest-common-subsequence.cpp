@@ -9,12 +9,12 @@ public:
             return dp[n1][n2];
 
         if (text1[n1 - 1] == text2[n2 - 1]) {
-            dp[n1][n2] = 1 + solve(text1, text2, n1 - 1, n2 - 1, dp);
+           return  dp[n1][n2] = 1 + solve(text1, text2, n1 - 1, n2 - 1, dp);
         } else {
-            dp[n1][n2] = max(solve(text1, text2, n1 - 1, n2, dp),
+          return  dp[n1][n2] = max(solve(text1, text2, n1 - 1, n2, dp),
                              solve(text1, text2, n1, n2 - 1, dp));
         }
-        return dp[n1][n2];
+       
     }
 
     int longestCommonSubsequence(string text1, string text2) {
