@@ -1,14 +1,25 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& nums) {
-        sort(begin(nums), end(nums));
-        priority_queue<int, vector<int>, greater<int>> p;
+         vector<int> a, b;
         for (int i = 0; i < nums.size(); i++) {
-            if (p.size() > 0 && p.top() < nums[i][0])
-                p.pop();
-
-            p.push(nums[i][1]);
+            a.push_back(nums[i][0]);
+            b.push_back(nums[i][1]);
         }
-        return p.size();
+        sort(begin(a), end(a));
+        sort(begin(b), end(b));
+        int i = 0, j = 0;
+        int count = 0;
+        while (i < a.size()){
+            if (a[i] <= b[j])
+                i++;
+            else {
+                count++;
+                j++;
+                i++;
+            }
+    }
+    return a.size() - count;
+        
     }
 };
