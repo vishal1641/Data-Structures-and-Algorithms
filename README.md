@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vishal1641/hi/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vishal1641/hi/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vishal1641/hi/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
