@@ -11,22 +11,22 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        ListNode *temp=new ListNode(-1);
-        ListNode*b=temp;
-        ListNode *a=head;
+        ListNode* temp=head;
         vector<int>v;
-
-        while(a!=NULL){
-v.push_back(a->val);
-a=a->next;
+        while(temp!=NULL){
+            v.push_back(temp->val);
+            temp=temp->next;
         }
         sort(begin(v),end(v));
+          ListNode* dummy=new ListNode(-1);
+          ListNode*k=dummy;
         for(int i=0;i<v.size();i++){
-            ListNode*curr=new ListNode(v[i]);
-            b->next=curr;
-            b=curr;
+            ListNode* a=new ListNode(v[i]);
+            dummy->next=a;
+            dummy=dummy->next;
+            
         }
-        b->next=NULL;
-        return temp->next;
+        dummy->next=NULL;
+        return k->next;
     }
 };
