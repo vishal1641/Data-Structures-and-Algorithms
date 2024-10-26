@@ -11,35 +11,35 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        // If either list is empty, return the other list
-        if (list1 == nullptr) return list2;
-        if (list2 == nullptr) return list1;
-
-        // Dummy node to start the merged list
-        ListNode* temp = new ListNode(-1);
-        ListNode* tail = temp;
-
-        // Traverse both lists and merge them
-        while (list1 != nullptr && list2 != nullptr) {
-            if (list1->val <= list2->val) {
-                tail->next = list1;
+        if (list1 == NULL)
+            return list2;
+        if (list2 == NULL)
+            return list1;
+        ListNode* dummy = new ListNode(-1);
+        ListNode* a = dummy;
+        while (list1 != NULL && list2 != NULL) {
+            if (list1->val == list2->val) {
+                dummy->next = list1;
+                dummy = dummy->next;
                 list1 = list1->next;
-            } else {
-                tail->next = list2;
+                dummy->next = list2;
+                dummy=dummy->next;
                 list2 = list2->next;
+            } else if (list1->val > list2->val) {
+                dummy->next = list2;
+                dummy = dummy->next;
+                list2 = list2->next;
+            } else {
+                dummy->next = list1;
+                dummy = dummy->next;
+                list1 = list1->next;
             }
-            tail = tail->next;
         }
-
-        // Attach the remaining nodes of list1 or list2, if any
-        if (list1 != nullptr) {
-            tail->next = list1;
-        } else {
-            tail->next = list2;
+        if(list1!=NULL){
+            dummy->next=list1;
         }
-
-        
-
-        return temp->next;
+        else
+        dummy->next=list2;
+        return a->next;
     }
 };
