@@ -505,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/vishal1641/hi/tree/master/0686-repeated-string-match) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/vishal1641/hi/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vishal1641/hi/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/vishal1641/hi/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/vishal1641/hi/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
