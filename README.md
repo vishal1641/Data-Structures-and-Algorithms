@@ -703,4 +703,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vishal1641/hi/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/vishal1641/hi/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
