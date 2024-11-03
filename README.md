@@ -724,4 +724,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1948-rearrange-products-table](https://github.com/vishal1641/hi/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/vishal1641/hi/tree/master/2024-calculate-special-bonus) |
 | [2110-employees-with-missing-information](https://github.com/vishal1641/hi/tree/master/2110-employees-with-missing-information) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/vishal1641/hi/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
