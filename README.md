@@ -721,4 +721,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1670-patients-with-a-condition](https://github.com/vishal1641/hi/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/vishal1641/hi/tree/master/1734-bank-account-summary-ii) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/vishal1641/hi/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1948-rearrange-products-table](https://github.com/vishal1641/hi/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
