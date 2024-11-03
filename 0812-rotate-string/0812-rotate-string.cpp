@@ -1,18 +1,16 @@
-class Solution
-{
+#include <algorithm> // for std::rotate
+
+class Solution {
 public:
-  bool rotateString(string s, string goal)
-  {
-    if (s.size() != goal.size())
-      return false;
-
-    for (int i = 0; i < s.size(); ++i)
-    {
-      if (s == goal)
-        return true;
-      s = s.substr(1) + s[0];
+    bool rotateString(string s, string goal) {
+        int m = 0;
+        while (m < s.size()) {
+           
+          rotate(goal.rbegin(), goal.rbegin() + 1, goal.rend());
+            m++;
+            if (goal == s)
+                return true;
+        }
+        return false;
     }
-
-    return false;
-  }
 };
