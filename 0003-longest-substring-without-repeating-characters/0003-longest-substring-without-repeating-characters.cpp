@@ -9,13 +9,17 @@ public:
             if (j - i + 1 == m.size()) {
                 maxi = max(maxi, j - i + 1);
                 j++;
-            } else if (j - i + 1 > m.size()) {
+            } else if(j - i + 1 > m.size()) {
                 while (j - i + 1 > m.size()) {
                     m[s[i]]--;
                     if (m[s[i]] == 0)
                         m.erase(s[i]);
-                        i++;
+                    i++;
                 }
+                maxi=max(maxi,j-i+1);
+                j++;
+            }
+            else{
                 j++;
             }
         }
