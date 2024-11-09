@@ -1,36 +1,27 @@
 class Solution {
 public:
     int findPairs(vector<int>& nums, int k) {
-
-        unordered_map<int, int> m;
+        unordered_map<int, int> m1;
         int count = 0;
 
-        vector<int> nums1;
-        unordered_map<int, int> m1;
-        
-     
-        for (int i = 0; i < nums.size(); i++) {
-            m1[nums[i]]++;
+        // Count occurrences of each number in nums
+        for (int num : nums) {
+            m1[num]++;
         }
 
-        
+        // Count unique pairs with the difference of k
         for (auto it : m1) {
-            if (k == 0 && it.second > 1) {  
-                nums1.push_back(it.first);
-                nums1.push_back(it.first);
-            } else if (k > 0) {            
-                nums1.push_back(it.first);
+            if (k == 0) {
+                // For k == 0, we need duplicates, so count elements with frequency > 1
+                if (it.second > 1) {
+                    count++;
+                }
+            } else {
+                // For k > 0, check if there exists a pair (num, num + k)
+                if (m1.find(it.first + k) != m1.end()) {
+                    count++;
+                }
             }
-        }
-
-        
-        sort(begin(nums1), end(nums1));
-        
-        
-        for (int i = 0; i < nums1.size(); i++) {
-            if (m.find(nums1[i] - k) != m.end())
-                count += m[nums1[i] - k];
-            m[nums1[i]] = 1;
         }
 
         return count;
