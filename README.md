@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vishal1641/hi/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishal1641/hi/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/vishal1641/hi/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/vishal1641/hi/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vishal1641/hi/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/vishal1641/hi/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/vishal1641/hi/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishal1641/hi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/vishal1641/hi/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/vishal1641/hi/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vishal1641/hi/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/vishal1641/hi/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vishal1641/hi/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
@@ -744,4 +747,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2024-calculate-special-bonus](https://github.com/vishal1641/hi/tree/master/2024-calculate-special-bonus) |
 | [2110-employees-with-missing-information](https://github.com/vishal1641/hi/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/vishal1641/hi/tree/master/2127-employees-whose-manager-left-the-company) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vishal1641/hi/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
