@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/vishal1641/hi/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/vishal1641/hi/tree/master/1046-max-consecutive-ones-iii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/vishal1641/hi/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/vishal1641/hi/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vishal1641/hi/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vishal1641/hi/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
