@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vishal1641/hi/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/vishal1641/hi/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/vishal1641/hi/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vishal1641/hi/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vishal1641/hi/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2487-optimal-partition-of-string](https://github.com/vishal1641/hi/tree/master/2487-optimal-partition-of-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vishal1641/hi/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3540-hash-divided-string](https://github.com/vishal1641/hi/tree/master/3540-hash-divided-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishal1641/hi/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vishal1641/hi/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishal1641/hi/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vishal1641/hi/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
