@@ -488,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishal1641/hi/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3568-find-the-key-of-the-numbers](https://github.com/vishal1641/hi/tree/master/3568-find-the-key-of-the-numbers) |
+| [3817-maximum-containers-on-a-ship](https://github.com/vishal1641/hi/tree/master/3817-maximum-containers-on-a-ship) |
 ## Recursion
 |  |
 | ------- |
