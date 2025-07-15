@@ -1,25 +1,28 @@
 class Solution {
 public:
-vector<vector<int>>ans;
-void solve(int i,vector<int>&temp,vector<vector<int>>&ans,int sum,int target,vector<int>&nums){
-if(sum>target)
-return;
-if(sum==target)
-ans.push_back(temp);
-if(i>=nums.size())
-return ;
+    vector<vector<int>> ans;
+    void solve(vector<int>& candidates, int target, int i, vector<int> &temp) {
 
-    for(int j=i;j<nums.size();j++){
-        sum+=nums[j];
-        temp.push_back(nums[j]);
-        solve(j,temp,ans,sum,target,nums);
-        sum-=nums[j];
+        if (target == 0) {
+            ans.push_back(temp);
+            return;
+        }
+        if (target < 0)
+            return;
+
+        if (i >= candidates.size()) {
+
+            return;
+        }
+        temp.push_back(candidates[i]);
+        solve(candidates, target - candidates[i], i, temp);
         temp.pop_back();
+        solve(candidates, target, i + 1, temp);
     }
-}
-    vector<vector<int>> combinationSum(vector<int>& nums, int target) {
-        vector<int>temp;
-        solve(0,temp,ans,0,target,nums);
+
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<int> temp;
+        solve(candidates, target, 0, temp);
         return ans;
     }
 };
