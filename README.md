@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vishal1641/hi/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vishal1641/hi/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/vishal1641/hi/tree/master/0386-lexicographical-numbers) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishal1641/hi/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vishal1641/hi/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishal1641/hi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vishal1641/hi/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/vishal1641/hi/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vishal1641/hi/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -690,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
 ## Rolling Hash
 |  |
