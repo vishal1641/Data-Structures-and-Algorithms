@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vishal1641/hi/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
+| [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vishal1641/hi/tree/master/0337-house-robber-iii) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishal1641/hi/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vishal1641/hi/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vishal1641/hi/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/vishal1641/hi/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/vishal1641/hi/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishal1641/hi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -597,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/vishal1641/hi/tree/master/1036-rotting-oranges) |
@@ -702,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
 ## Rolling Hash
