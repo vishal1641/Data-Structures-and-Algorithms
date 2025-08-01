@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/vishal1641/hi/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/vishal1641/hi/tree/master/0652-find-duplicate-subtrees) |
+| [0801-is-graph-bipartite](https://github.com/vishal1641/hi/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/vishal1641/hi/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/vishal1641/hi/tree/master/0801-is-graph-bipartite) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/vishal1641/hi/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/vishal1641/hi/tree/master/1073-number-of-enclaves) |
 ## Rolling Hash
 |  |
@@ -805,4 +808,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/vishal1641/hi/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
