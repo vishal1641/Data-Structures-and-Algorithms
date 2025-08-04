@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/vishal1641/hi/tree/master/0652-find-duplicate-subtrees) |
 | [0801-is-graph-bipartite](https://github.com/vishal1641/hi/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/vishal1641/hi/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/vishal1641/hi/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/vishal1641/hi/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/vishal1641/hi/tree/master/0820-find-eventual-safe-states) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -809,4 +811,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/vishal1641/hi/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/vishal1641/hi/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/vishal1641/hi/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
