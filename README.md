@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/vishal1641/hi/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vishal1641/hi/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/vishal1641/hi/tree/master/0386-lexicographical-numbers) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/vishal1641/hi/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/vishal1641/hi/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
@@ -809,11 +811,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vishal1641/hi/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/vishal1641/hi/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/vishal1641/hi/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vishal1641/hi/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/vishal1641/hi/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
