@@ -1,39 +1,49 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& a, vector<int>& b) {
-        vector<int>v;
-        int n=a.size();
-        int m=b.size();
-        int i=0,j=0;
-           while(i<n&&j<m){
-               if(a[i]<=b[j])
-               {v.push_back(a[i]);
-               i++;}
-               else{
-                   v.push_back(b[j]);
-                   j++;
-               }
-           }
-           while(i<n){
-               v.push_back(a[i]);
-               i++;
-           } while(j<m){
-               v.push_back(b[j]);
-               j++;
-           }
-           double res;
-           if(v.size()%2    !=0){
-           int s=0;
-            int e=v.size()-1;
-            int mid=s+(e-s)/2;
-            res = v[mid];
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int n1 = nums1.size();
+        int n2 = nums2.size();
+        int b = (n1 + n2) / 2;
+        int a = b - 1;
+        int i = 0, j = 0;
+        int count = 0;
+        double ans1 = -1, ans2 = -1;
+        while (i < n1 && j < n2) {
+            if (nums1[i] < nums2[j]) {
+                if (count == a)
+                    ans1 = nums1[i];
+                if (count == b)
+                    ans2 = nums1[i];
+                count++;
+                i++;
+            } else {
+                if (count == a)
+                    ans1 = nums2[j];
+                if (count == b)
+                    ans2 = nums2[j];
+                count++;
+                j++;
             }
-           else{
-            int s=0;
-            int e=v.size()-1;
-            int mid=s+(e-s)/2;
-           res=(v[mid] + v[mid+1])/2.0;
-            }
-            return res;
+        }
+        while (i < n1) {
+            if (count == a)
+                ans1 = nums1[i];
+            if (count == b)
+                ans2 = nums1[i];
+            count++;
+            i++;
+        }
+        while (j < n2) {
+            if (count == a)
+                ans1 = nums2[j];
+            if (count == b)
+                ans2 = nums2[j];
+            count++;
+            j++;
+        }
+        if ((n1 + n2) % 2 == 0)
+            return (ans1 + ans2) / 2;
+        else
+            return ans2;
     }
 };
