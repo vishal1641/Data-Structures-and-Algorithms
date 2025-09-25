@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishal1641/hi/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishal1641/hi/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishal1641/hi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishal1641/hi/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishal1641/hi/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/vishal1641/hi/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vishal1641/hi/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vishal1641/hi/tree/master/0031-next-permutation) |
@@ -697,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishal1641/hi/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/vishal1641/hi/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishal1641/hi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
