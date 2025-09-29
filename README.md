@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vishal1641/hi/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishal1641/hi/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vishal1641/hi/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/vishal1641/hi/tree/master/0437-path-sum-iii) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/vishal1641/hi/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishal1641/hi/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vishal1641/hi/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vishal1641/hi/tree/master/0210-course-schedule-ii) |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishal1641/hi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vishal1641/hi/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vishal1641/hi/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishal1641/hi/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishal1641/hi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vishal1641/hi/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/vishal1641/hi/tree/master/0437-path-sum-iii) |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal1641/hi/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishal1641/hi/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vishal1641/hi/tree/master/0144-binary-tree-preorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/vishal1641/hi/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
