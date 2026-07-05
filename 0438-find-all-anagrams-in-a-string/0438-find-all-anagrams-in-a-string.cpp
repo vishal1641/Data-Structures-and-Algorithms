@@ -1,27 +1,42 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        map<char, int> a;
-        map<char, int> b;
-        for (int i = 0; i < p.size(); i++)
-            b[p[i]]++;
-        int i = 0, j = 0;
+
+        map<char, int> m;
+
+        for (char c : p)
+            m[c]++;
+
+        int i = 0, j = 0, n = s.size();
         vector<int> v;
-        while (j < s.size()) {
-            a[s[j]]++;
+        int ans;
+
+        while (j < n) {
+
+            m[s[j]]--;
+
             if (j - i + 1 < p.size())
                 j++;
             else {
-                if (a == b)
+
+                ans = 0;
+
+                for (auto it : m) {
+                    if (it.second != 0) {
+                        ans = 1;
+                        break;
+                    }
+                }
+
+                if (ans == 0)
                     v.push_back(i);
 
-                a[s[i]]--;
-                if (a[s[i]] == 0)
-                    a.erase(s[i]);
+                m[s[i]]++;
                 i++;
                 j++;
             }
         }
+
         return v;
     }
 };
