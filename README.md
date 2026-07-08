@@ -861,4 +861,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/vishal1641/hi/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vishal1641/hi/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/vishal1641/hi/tree/master/0820-find-eventual-safe-states) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
