@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/vishal1641/hi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vishal1641/hi/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vishal1641/hi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vishal1641/hi/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/vishal1641/hi/tree/master/0149-max-points-on-a-line) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishal1641/hi/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vishal1641/hi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vishal1641/hi/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/vishal1641/hi/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vishal1641/hi/tree/master/0198-house-robber) |
