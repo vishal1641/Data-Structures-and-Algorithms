@@ -579,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/vishal1641/hi/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vishal1641/hi/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vishal1641/hi/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/vishal1641/hi/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vishal1641/hi/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishal1641/hi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishal1641/hi/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vishal1641/hi/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vishal1641/hi/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vishal1641/hi/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
