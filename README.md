@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/vishal1641/hi/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vishal1641/hi/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vishal1641/hi/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vishal1641/hi/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vishal1641/hi/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vishal1641/hi/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishal1641/hi/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -643,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vishal1641/hi/tree/master/1256-rank-transform-of-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vishal1641/hi/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -721,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/vishal1641/hi/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/vishal1641/hi/tree/master/0908-middle-of-the-linked-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishal1641/hi/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vishal1641/hi/tree/master/2320-find-all-k-distant-indices-in-an-array) |
