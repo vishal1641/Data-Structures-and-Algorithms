@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/vishal1641/hi/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vishal1641/hi/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishal1641/hi/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vishal1641/hi/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/vishal1641/hi/tree/master/0908-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishal1641/hi/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vishal1641/hi/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -787,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishal1641/hi/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/vishal1641/hi/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
