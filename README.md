@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/vishal1641/hi/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/vishal1641/hi/tree/master/0948-sort-an-array) |
+| [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/vishal1641/hi/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/vishal1641/hi/tree/master/1036-rotting-oranges) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/vishal1641/hi/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
 | [1002-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vishal1641/hi/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishal1641/hi/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -730,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/vishal1641/hi/tree/master/0908-middle-of-the-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vishal1641/hi/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -814,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishal1641/hi/tree/master/0084-largest-rectangle-in-histogram) |
+| [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
 | [1002-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishal1641/hi/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Memoization
