@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vishal1641/hi/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/vishal1641/hi/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vishal1641/hi/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vishal1641/hi/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vishal1641/hi/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vishal1641/hi/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Backtracking
 |  |
@@ -660,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vishal1641/hi/tree/master/3634-minimum-removals-to-balance-array) |
 ## Matrix
 |  |
 | ------- |
@@ -710,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vishal1641/hi/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishal1641/hi/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vishal1641/hi/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vishal1641/hi/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vishal1641/hi/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting Sort
 |  |
