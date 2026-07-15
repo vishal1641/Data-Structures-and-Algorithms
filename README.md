@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishal1641/hi/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/vishal1641/hi/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3713-longest-balanced-substring-i](https://github.com/vishal1641/hi/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3540-hash-divided-string](https://github.com/vishal1641/hi/tree/master/3540-hash-divided-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishal1641/hi/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/vishal1641/hi/tree/master/3617-find-the-original-typed-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/vishal1641/hi/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -694,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vishal1641/hi/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3713-longest-balanced-substring-i](https://github.com/vishal1641/hi/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -905,4 +908,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishal1641/hi/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/vishal1641/hi/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
