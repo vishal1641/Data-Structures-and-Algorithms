@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vishal1641/hi/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/vishal1641/hi/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/vishal1641/hi/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vishal1641/hi/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vishal1641/hi/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/vishal1641/hi/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vishal1641/hi/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vishal1641/hi/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/vishal1641/hi/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vishal1641/hi/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/vishal1641/hi/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishal1641/hi/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
