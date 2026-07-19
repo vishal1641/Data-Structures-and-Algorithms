@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/vishal1641/hi/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/vishal1641/hi/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/vishal1641/hi/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/vishal1641/hi/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vishal1641/hi/tree/master/0349-intersection-of-two-arrays) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vishal1641/hi/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/vishal1641/hi/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vishal1641/hi/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/vishal1641/hi/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishal1641/hi/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/vishal1641/hi/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/vishal1641/hi/tree/master/0423-reconstruct-original-digits-from-english) |
