@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0838-push-dominoes](https://github.com/vishal1641/hi/tree/master/0838-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/vishal1641/hi/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -602,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/vishal1641/hi/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/vishal1641/hi/tree/master/0812-rotate-string) |
+| [0838-push-dominoes](https://github.com/vishal1641/hi/tree/master/0838-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vishal1641/hi/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
@@ -743,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/vishal1641/hi/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/vishal1641/hi/tree/master/0763-partition-labels) |
+| [0838-push-dominoes](https://github.com/vishal1641/hi/tree/master/0838-push-dominoes) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/vishal1641/hi/tree/master/0908-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
