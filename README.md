@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/vishal1641/hi/tree/master/0652-find-duplicate-subtrees) |
 | [0763-partition-labels](https://github.com/vishal1641/hi/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
+| [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0846-hand-of-straights) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vishal1641/hi/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
+| [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/vishal1641/hi/tree/master/0907-koko-eating-bananas) |
@@ -574,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/vishal1641/hi/tree/master/0670-maximum-swap) |
+| [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
 | [1642-water-bottles](https://github.com/vishal1641/hi/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishal1641/hi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -840,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/vishal1641/hi/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
+| [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
