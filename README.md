@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/vishal1641/hi/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishal1641/hi/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishal1641/hi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vishal1641/hi/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/vishal1641/hi/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/vishal1641/hi/tree/master/3713-longest-balanced-substring-i) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vishal1641/hi/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/vishal1641/hi/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vishal1641/hi/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/vishal1641/hi/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vishal1641/hi/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vishal1641/hi/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vishal1641/hi/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3540-hash-divided-string](https://github.com/vishal1641/hi/tree/master/3540-hash-divided-string) |
 ## Math
 |  |
