@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2372-rearrange-characters-to-make-target-string](https://github.com/vishal1641/hi/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2487-optimal-partition-of-string](https://github.com/vishal1641/hi/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishal1641/hi/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/vishal1641/hi/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishal1641/hi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vishal1641/hi/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishal1641/hi/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vishal1641/hi/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/vishal1641/hi/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/vishal1641/hi/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vishal1641/hi/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/vishal1641/hi/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishal1641/hi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vishal1641/hi/tree/master/3634-minimum-removals-to-balance-array) |
 ## Matrix
