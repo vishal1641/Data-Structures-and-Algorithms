@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishal1641/hi/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/vishal1641/hi/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishal1641/hi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/vishal1641/hi/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vishal1641/hi/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/vishal1641/hi/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -645,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/vishal1641/hi/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishal1641/hi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishal1641/hi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/vishal1641/hi/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/vishal1641/hi/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishal1641/hi/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3540-hash-divided-string](https://github.com/vishal1641/hi/tree/master/3540-hash-divided-string) |
