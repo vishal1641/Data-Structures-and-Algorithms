@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/vishal1641/hi/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/vishal1641/hi/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vishal1641/hi/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vishal1641/hi/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vishal1641/hi/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Breadth-First Search
 |  |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vishal1641/hi/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vishal1641/hi/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/vishal1641/hi/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vishal1641/hi/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vishal1641/hi/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vishal1641/hi/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Backtracking
