@@ -1,28 +1,24 @@
 class Solution {
 public:
-void number(string digits,int index,string output,vector<string>&ans,string m[]){
-if(index>=digits.size()){
-ans.push_back(output);
-return;}
-int n=digits[index]-'0';
-string value=m[n];
-for(int i=0;i<value.size();i++){
-    output.push_back(value[i]);
-    number(digits,index+1,output,ans,m);
-    output.pop_back();
-}
-
-
-
-
-}
+    vector<string> ans;
+    void solve(string& digits, vector<string>& m, int i, string& z) {
+        if (i >= digits.size()) {
+            ans.push_back(z);
+            return;
+        }
+        int n = digits[i] - '0';
+        string k = m[n];
+        for (int j = 0; j < k.size(); j++) {
+            z.push_back(k[j]);
+            solve(digits, m, i + 1, z);
+            z.pop_back();
+        }
+    }
     vector<string> letterCombinations(string digits) {
-      vector<string>ans;
-      if(digits.length()==0)return ans;
-      string output="";
-      int index=0;
-      string m[10]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-      number(digits,index,output,ans,m); 
-return ans;
+        vector<string> m(10);
+        m = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        string z = "";
+        solve(digits, m, 0, z);
+        return ans;
     }
 };
