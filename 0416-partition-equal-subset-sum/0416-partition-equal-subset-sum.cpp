@@ -1,30 +1,26 @@
 class Solution {
 public:
-int solve(int n,vector<int>&nums,vector<vector<int>>&dp,int target){
-bool a=false,b=false;
-if(target==0)
-return true;
-if(n==0){
-    if(target==0)
-    return true;
-    return false;
-}
-if(dp[n][target]!=-1)
-return dp[n][target];
-
-    if(nums[n-1]<=target){
-        a=solve(n-1,nums,dp,target-nums[n-1])||solve(n-1,nums,dp,target);
-    }
-    else
-    b=solve(n-1,nums,dp,target);
-    return dp[n][target]=a||b;
-}
     bool canPartition(vector<int>& nums) {
-        int sum=accumulate(nums.begin(),nums.end(),0);
-        if(sum%2!=0)
-        return false;
-        int n=nums.size();
-        vector<vector<int>>dp(n+1,vector<int>(sum/2+1,-1));
-        return solve(n,nums,dp,sum/2);
+        int sum = accumulate(begin(nums), end(nums), 0);
+        int x = sum / 2;
+        if (sum% 2 != 0)
+            return 0;
+            int n=nums.size();
+        vector<vector<int>> dp(nums.size() + 1, vector<int>(x + 1, 0));
+
+        for (int i = 0; i <= n; i++)
+            dp[i][0] = 1;
+        for (int j = 1; j <= x; j++) {
+            dp[0][j] = 0;
+        }
+        for(int i=1;i<n+1;i++){
+            for(int j=1;j<x+1;j++){
+                if(nums[i-1]<=j)
+                dp[i][j]=dp[i-1][j]||dp[i-1][j-nums[i-1]];
+                else
+                dp[i][j]=dp[i-1][j];
+            }
+        }
+        return dp[n][x];
     }
 };
