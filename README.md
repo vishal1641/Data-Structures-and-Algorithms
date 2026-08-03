@@ -488,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/vishal1641/hi/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishal1641/hi/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/vishal1641/hi/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2090-k-radius-subarray-averages](https://github.com/vishal1641/hi/tree/master/2090-k-radius-subarray-averages) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/vishal1641/hi/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/vishal1641/hi/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/vishal1641/hi/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/vishal1641/hi/tree/master/3335-total-characters-in-string-after-transformations-i) |
