@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/vishal1641/hi/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/vishal1641/hi/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vishal1641/hi/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/vishal1641/hi/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vishal1641/hi/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/vishal1641/hi/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/vishal1641/hi/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vishal1641/hi/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/vishal1641/hi/tree/master/1079-letter-tile-possibilities) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vishal1641/hi/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishal1641/hi/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishal1641/hi/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishal1641/hi/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-letter-tile-possibilities](https://github.com/vishal1641/hi/tree/master/1079-letter-tile-possibilities) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vishal1641/hi/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vishal1641/hi/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1250-longest-common-subsequence](https://github.com/vishal1641/hi/tree/master/1250-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishal1641/hi/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -875,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/vishal1641/hi/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vishal1641/hi/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vishal1641/hi/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vishal1641/hi/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2305-fair-distribution-of-cookies](https://github.com/vishal1641/hi/tree/master/2305-fair-distribution-of-cookies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
 ## Union Find
