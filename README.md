@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/vishal1641/hi/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vishal1641/hi/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vishal1641/hi/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/vishal1641/hi/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vishal1641/hi/tree/master/0547-number-of-provinces) |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/vishal1641/hi/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/vishal1641/hi/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vishal1641/hi/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/vishal1641/hi/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vishal1641/hi/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/vishal1641/hi/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/vishal1641/hi/tree/master/0343-integer-break) |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/vishal1641/hi/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vishal1641/hi/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/vishal1641/hi/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/vishal1641/hi/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/vishal1641/hi/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/vishal1641/hi/tree/master/0415-add-strings) |
@@ -1024,4 +1027,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/vishal1641/hi/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/vishal1641/hi/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
