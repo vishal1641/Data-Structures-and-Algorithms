@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/vishal1641/hi/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/vishal1641/hi/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/vishal1641/hi/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/vishal1641/hi/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal1641/hi/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishal1641/hi/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/vishal1641/hi/tree/master/0494-target-sum) |
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/vishal1641/hi/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/vishal1641/hi/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/vishal1641/hi/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/vishal1641/hi/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal1641/hi/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vishal1641/hi/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vishal1641/hi/tree/master/0518-coin-change-ii) |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishal1641/hi/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vishal1641/hi/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vishal1641/hi/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/vishal1641/hi/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
