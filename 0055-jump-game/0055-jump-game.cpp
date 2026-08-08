@@ -1,20 +1,23 @@
 class Solution {
 public:
-bool jump(vector<int>&nums,int index,int n,vector<int>&dp){
-if(index>=n)
-return true;
-if(dp[index]!=-1)
-return dp[index];
+    bool solve(vector<int>& nums, int i, vector<int>& dp) {
 
-for(int i=1;i<=nums[index];i++){
-   if(jump(nums,index+i,n,dp))
-    return dp[index]=true;
-}
-return dp[index]=false;
-}
+        if (i >= nums.size() - 1)
+            return true;
+        if (nums[i] == 0)
+            return false;
+        if (dp[i] != -1)
+            return dp[i];
+        bool take = false;
+        for (int j = 1; j <= nums[i]; j++) {
+            take = solve(nums, i + j, dp);
+            if (take == true)
+                return dp[i] = true;
+        }
+        return dp[i] = take;
+    }
     bool canJump(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
-int n=nums.size()-1;
-        return jump(nums,0,n,dp);
+        vector<int> dp(nums.size() + 1,-1);
+        return solve(nums, 0,dp);
     }
 };
