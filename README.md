@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/vishal1641/hi/tree/master/0948-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/vishal1641/hi/tree/master/0966-binary-subarrays-with-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/vishal1641/hi/tree/master/0983-minimum-cost-for-tickets) |
 | [1002-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/vishal1641/hi/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vishal1641/hi/tree/master/1046-max-consecutive-ones-iii) |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vishal1641/hi/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0838-push-dominoes](https://github.com/vishal1641/hi/tree/master/0838-push-dominoes) |
+| [0983-minimum-cost-for-tickets](https://github.com/vishal1641/hi/tree/master/0983-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/vishal1641/hi/tree/master/1250-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/vishal1641/hi/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
