@@ -574,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/vishal1641/hi/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal1641/hi/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vishal1641/hi/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/vishal1641/hi/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/vishal1641/hi/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
@@ -682,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/vishal1641/hi/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishal1641/hi/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishal1641/hi/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/vishal1641/hi/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/vishal1641/hi/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vishal1641/hi/tree/master/0583-delete-operation-for-two-strings) |
