@@ -556,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/vishal1641/hi/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vishal1641/hi/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/vishal1641/hi/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishal1641/hi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishal1641/hi/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishal1641/hi/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -672,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishal1641/hi/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vishal1641/hi/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vishal1641/hi/tree/master/0049-group-anagrams) |
+| [0087-scramble-string](https://github.com/vishal1641/hi/tree/master/0087-scramble-string) |
 | [0205-isomorphic-strings](https://github.com/vishal1641/hi/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/vishal1641/hi/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/vishal1641/hi/tree/master/0290-word-pattern) |
