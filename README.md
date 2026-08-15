@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vishal1641/hi/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishal1641/hi/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/vishal1641/hi/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vishal1641/hi/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2305-fair-distribution-of-cookies](https://github.com/vishal1641/hi/tree/master/2305-fair-distribution-of-cookies) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/vishal1641/hi/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/vishal1641/hi/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2305-fair-distribution-of-cookies](https://github.com/vishal1641/hi/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/vishal1641/hi/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -895,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/vishal1641/hi/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vishal1641/hi/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishal1641/hi/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/vishal1641/hi/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vishal1641/hi/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3719-longest-balanced-subarray-i](https://github.com/vishal1641/hi/tree/master/3719-longest-balanced-subarray-i) |
