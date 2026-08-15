@@ -589,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/vishal1641/hi/tree/master/1250-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/vishal1641/hi/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/vishal1641/hi/tree/master/1402-reducing-dishes) |
+| [1416-restore-the-array](https://github.com/vishal1641/hi/tree/master/1416-restore-the-array) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/vishal1641/hi/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -704,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vishal1641/hi/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1250-longest-common-subsequence](https://github.com/vishal1641/hi/tree/master/1250-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishal1641/hi/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1416-restore-the-array](https://github.com/vishal1641/hi/tree/master/1416-restore-the-array) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vishal1641/hi/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishal1641/hi/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
