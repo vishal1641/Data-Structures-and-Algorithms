@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0846-hand-of-straights) |
+| [0879-profitable-schemes](https://github.com/vishal1641/hi/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/vishal1641/hi/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vishal1641/hi/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0838-push-dominoes](https://github.com/vishal1641/hi/tree/master/0838-push-dominoes) |
+| [0879-profitable-schemes](https://github.com/vishal1641/hi/tree/master/0879-profitable-schemes) |
 | [0983-minimum-cost-for-tickets](https://github.com/vishal1641/hi/tree/master/0983-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/vishal1641/hi/tree/master/1250-longest-common-subsequence) |
@@ -1064,8 +1066,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/vishal1641/hi/tree/master/0279-perfect-squares) |
+| [0879-profitable-schemes](https://github.com/vishal1641/hi/tree/master/0879-profitable-schemes) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/vishal1641/hi/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/vishal1641/hi/tree/master/0879-profitable-schemes) |
 <!---LeetCode Topics End-->
