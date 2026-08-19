@@ -602,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2140-solving-questions-with-brainpower](https://github.com/vishal1641/hi/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/vishal1641/hi/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2305-fair-distribution-of-cookies](https://github.com/vishal1641/hi/tree/master/2305-fair-distribution-of-cookies) |
+| [2466-count-ways-to-build-good-strings](https://github.com/vishal1641/hi/tree/master/2466-count-ways-to-build-good-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/vishal1641/hi/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Linked List
