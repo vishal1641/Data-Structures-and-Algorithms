@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/vishal1641/hi/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/vishal1641/hi/tree/master/0983-minimum-cost-for-tickets) |
 | [1002-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/1002-maximum-width-ramp) |
+| [1035-uncrossed-lines](https://github.com/vishal1641/hi/tree/master/1035-uncrossed-lines) |
 | [1036-rotting-oranges](https://github.com/vishal1641/hi/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vishal1641/hi/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vishal1641/hi/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0838-push-dominoes](https://github.com/vishal1641/hi/tree/master/0838-push-dominoes) |
 | [0879-profitable-schemes](https://github.com/vishal1641/hi/tree/master/0879-profitable-schemes) |
 | [0983-minimum-cost-for-tickets](https://github.com/vishal1641/hi/tree/master/0983-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/vishal1641/hi/tree/master/1035-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/vishal1641/hi/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/vishal1641/hi/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1077,4 +1079,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/vishal1641/hi/tree/master/0879-profitable-schemes) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1035-uncrossed-lines](https://github.com/vishal1641/hi/tree/master/1035-uncrossed-lines) |
 <!---LeetCode Topics End-->
