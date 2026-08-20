@@ -500,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/vishal1641/hi/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vishal1641/hi/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/vishal1641/hi/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishal1641/hi/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/vishal1641/hi/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishal1641/hi/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishal1641/hi/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishal1641/hi/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
+| [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
 | [2305-fair-distribution-of-cookies](https://github.com/vishal1641/hi/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Dynamic Programming
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1416-restore-the-array](https://github.com/vishal1641/hi/tree/master/1416-restore-the-array) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vishal1641/hi/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/vishal1641/hi/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/vishal1641/hi/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/vishal1641/hi/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -654,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/vishal1641/hi/tree/master/0670-maximum-swap) |
 | [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
 | [1642-water-bottles](https://github.com/vishal1641/hi/tree/master/1642-water-bottles) |
+| [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishal1641/hi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -921,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/vishal1641/hi/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vishal1641/hi/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vishal1641/hi/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
 | [2305-fair-distribution-of-cookies](https://github.com/vishal1641/hi/tree/master/2305-fair-distribution-of-cookies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vishal1641/hi/tree/master/2308-divide-array-into-equal-pairs) |
 ## Union Find
@@ -1064,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vishal1641/hi/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
 | [2305-fair-distribution-of-cookies](https://github.com/vishal1641/hi/tree/master/2305-fair-distribution-of-cookies) |
 ## Combinatorics
 |  |
@@ -1086,4 +1092,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/vishal1641/hi/tree/master/1035-uncrossed-lines) |
+## Number Theory
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
