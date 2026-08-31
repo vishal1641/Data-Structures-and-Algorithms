@@ -476,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/vishal1641/hi/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/vishal1641/hi/tree/master/0940-fruit-into-baskets) |
+| [0946-validate-stack-sequences](https://github.com/vishal1641/hi/tree/master/0946-validate-stack-sequences) |
 | [0948-sort-an-array](https://github.com/vishal1641/hi/tree/master/0948-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/vishal1641/hi/tree/master/0966-binary-subarrays-with-sum) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/vishal1641/hi/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/vishal1641/hi/tree/master/0946-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/vishal1641/hi/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -763,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/vishal1641/hi/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/vishal1641/hi/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/vishal1641/hi/tree/master/0946-validate-stack-sequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
 | [1002-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/1002-maximum-width-ramp) |
