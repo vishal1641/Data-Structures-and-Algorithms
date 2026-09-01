@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/vishal1641/hi/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/vishal1641/hi/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vishal1641/hi/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/vishal1641/hi/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vishal1641/hi/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishal1641/hi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vishal1641/hi/tree/master/0088-merge-sorted-array) |
@@ -645,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishal1641/hi/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/vishal1641/hi/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/vishal1641/hi/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vishal1641/hi/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/vishal1641/hi/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishal1641/hi/tree/master/0150-evaluate-reverse-polish-notation) |
