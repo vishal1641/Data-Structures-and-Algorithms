@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/vishal1641/hi/tree/master/0948-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/vishal1641/hi/tree/master/0966-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishal1641/hi/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/vishal1641/hi/tree/master/0983-minimum-cost-for-tickets) |
 | [1002-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/1002-maximum-width-ramp) |
 | [1035-uncrossed-lines](https://github.com/vishal1641/hi/tree/master/1035-uncrossed-lines) |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/vishal1641/hi/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishal1641/hi/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/vishal1641/hi/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vishal1641/hi/tree/master/1256-rank-transform-of-an-array) |
@@ -900,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/vishal1641/hi/tree/master/0908-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/vishal1641/hi/tree/master/0962-maximum-width-ramp) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishal1641/hi/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vishal1641/hi/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
