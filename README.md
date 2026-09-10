@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/vishal1641/hi/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vishal1641/hi/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/vishal1641/hi/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishal1641/hi/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishal1641/hi/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
