@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vishal1641/hi/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vishal1641/hi/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1539-kth-missing-positive-number](https://github.com/vishal1641/hi/tree/master/1539-kth-missing-positive-number) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3488-closest-equal-element-queries](https://github.com/vishal1641/hi/tree/master/3488-closest-equal-element-queries) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishal1641/hi/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vishal1641/hi/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/vishal1641/hi/tree/master/1539-kth-missing-positive-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishal1641/hi/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishal1641/hi/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishal1641/hi/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
