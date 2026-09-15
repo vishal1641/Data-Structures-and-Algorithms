@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/vishal1641/hi/tree/master/1539-kth-missing-positive-number) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2187-minimum-time-to-complete-trips](https://github.com/vishal1641/hi/tree/master/2187-minimum-time-to-complete-trips) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3488-closest-equal-element-queries](https://github.com/vishal1641/hi/tree/master/3488-closest-equal-element-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vishal1641/hi/tree/master/3634-minimum-removals-to-balance-array) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishal1641/hi/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/vishal1641/hi/tree/master/2140-solving-questions-with-brainpower) |
+| [2187-minimum-time-to-complete-trips](https://github.com/vishal1641/hi/tree/master/2187-minimum-time-to-complete-trips) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/vishal1641/hi/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vishal1641/hi/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vishal1641/hi/tree/master/2271-rearrange-array-elements-by-sign) |
