@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vishal1641/hi/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/vishal1641/hi/tree/master/1539-kth-missing-positive-number) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishal1641/hi/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vishal1641/hi/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/vishal1641/hi/tree/master/2439-minimize-maximum-of-array) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
 | [1642-water-bottles](https://github.com/vishal1641/hi/tree/master/1642-water-bottles) |
 | [1799-maximize-score-after-n-operations](https://github.com/vishal1641/hi/tree/master/1799-maximize-score-after-n-operations) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishal1641/hi/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishal1641/hi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1006,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/vishal1641/hi/tree/master/1402-reducing-dishes) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishal1641/hi/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishal1641/hi/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishal1641/hi/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishal1641/hi/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
