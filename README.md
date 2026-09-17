@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vishal1641/hi/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/vishal1641/hi/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vishal1641/hi/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishal1641/hi/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/vishal1641/hi/tree/master/1539-kth-missing-positive-number) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vishal1641/hi/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vishal1641/hi/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vishal1641/hi/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/vishal1641/hi/tree/master/2439-minimize-maximum-of-array) |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/vishal1641/hi/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vishal1641/hi/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/vishal1641/hi/tree/master/1254-deepest-leaves-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vishal1641/hi/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishal1641/hi/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/vishal1641/hi/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vishal1641/hi/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vishal1641/hi/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/vishal1641/hi/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2090-k-radius-subarray-averages](https://github.com/vishal1641/hi/tree/master/2090-k-radius-subarray-averages) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vishal1641/hi/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -849,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/vishal1641/hi/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/vishal1641/hi/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vishal1641/hi/tree/master/1073-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vishal1641/hi/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishal1641/hi/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/vishal1641/hi/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vishal1641/hi/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1112,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vishal1641/hi/tree/master/0128-longest-consecutive-sequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vishal1641/hi/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Enumeration
 |  |
 | ------- |
