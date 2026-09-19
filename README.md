@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2439-minimize-maximum-of-array](https://github.com/vishal1641/hi/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishal1641/hi/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vishal1641/hi/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3488-closest-equal-element-queries](https://github.com/vishal1641/hi/tree/master/3488-closest-equal-element-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vishal1641/hi/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Tree
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vishal1641/hi/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishal1641/hi/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vishal1641/hi/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vishal1641/hi/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/vishal1641/hi/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishal1641/hi/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2439-minimize-maximum-of-array](https://github.com/vishal1641/hi/tree/master/2439-minimize-maximum-of-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/vishal1641/hi/tree/master/2466-count-ways-to-build-good-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vishal1641/hi/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/vishal1641/hi/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
@@ -847,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishal1641/hi/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishal1641/hi/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vishal1641/hi/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vishal1641/hi/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/vishal1641/hi/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishal1641/hi/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1034,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vishal1641/hi/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2487-optimal-partition-of-string](https://github.com/vishal1641/hi/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vishal1641/hi/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/vishal1641/hi/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishal1641/hi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishal1641/hi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vishal1641/hi/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
