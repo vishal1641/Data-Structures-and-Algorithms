@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/vishal1641/hi/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal1641/hi/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0826-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishal1641/hi/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vishal1641/hi/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/vishal1641/hi/tree/master/0907-koko-eating-bananas) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vishal1641/hi/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/vishal1641/hi/tree/master/0735-asteroid-collision) |
 | [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishal1641/hi/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vishal1641/hi/tree/master/0875-koko-eating-bananas) |
@@ -840,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/vishal1641/hi/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishal1641/hi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
+| [0826-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/vishal1641/hi/tree/master/0948-sort-an-array) |
@@ -949,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/vishal1641/hi/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/vishal1641/hi/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/vishal1641/hi/tree/master/0763-partition-labels) |
+| [0826-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0826-most-profit-assigning-work) |
 | [0838-push-dominoes](https://github.com/vishal1641/hi/tree/master/0838-push-dominoes) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/vishal1641/hi/tree/master/0908-middle-of-the-linked-list) |
@@ -1034,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/vishal1641/hi/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/vishal1641/hi/tree/master/0778-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/vishal1641/hi/tree/master/0781-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/vishal1641/hi/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/vishal1641/hi/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/vishal1641/hi/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishal1641/hi/tree/master/0957-minimum-add-to-make-parentheses-valid) |
